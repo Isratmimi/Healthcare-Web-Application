@@ -22,5 +22,5 @@ Core features include:
 
 ---
 
-git clone https://github.com/yourusername/healthcare-web-app.git
+git clone https://github.com/Isratmimi/healthcare-web-app.git
 cd healthcare-web-app
