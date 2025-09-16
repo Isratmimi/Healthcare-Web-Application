@@ -14,8 +14,8 @@ Core features include:
 ---
 
 ## ⚙️ Tech Stack  
-• Frontend: React.js — component-based, easy JWT integration.
-• Backend: Node.js + Express.js — JavaScript end-to-end.
+•** Frontend:** React.js — component-based, easy JWT integration.
+•** Backend:** Node.js + Express.js — JavaScript end-to-end.
 • Database: MongoDB + Mongoose ORM — JSON-like, flexible schema.
 • Auth: JWT with refresh tokens if needed.
 • Deployment: Docker + Docker Compose, deploy to Heroku/AWS free tier.
