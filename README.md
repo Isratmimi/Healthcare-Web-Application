@@ -13,13 +13,13 @@ Core features include:
 
 ---
 
-## ⚙️ Tech Stack
-- **Frontend:** React.js (Create React App)  
-- **Backend:** Node.js + Express.js  
-- **Database:** PostgreSQL with Sequelize ORM (can be replaced with MySQL or MongoDB if required)  
-- **Authentication:** JWT (JSON Web Tokens)  
-- **Project Management:** Trello, Slack, GitHub  
-
+## ⚙️ Tech Stack  
+• Frontend: React.js — component-based, easy JWT integration.
+• Backend: Node.js + Express.js — JavaScript end-to-end.
+• Database: MongoDB + Mongoose ORM — JSON-like, flexible schema.
+• Auth: JWT with refresh tokens if needed.
+• Deployment: Docker + Docker Compose, deploy to Heroku/AWS free tier.
+• PM Tools: Trello for backlog, Slack for communication, GitHub for repo + actions
 ---
 
 git clone https://github.com/Isratmimi/Healthcare-Web-Application.git
